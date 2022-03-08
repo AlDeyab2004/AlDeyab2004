@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>My Website</title>
+</head>
+
+<header>
+<h1 ID = "MyHeader">My Website</h1>
+</header>
+
+<nav ID = "MyNav">Vist My</h1>
+<ul>
+<li href "youtube.com;">Youtube</li>
+<li href "psnprofiles.com;">PSN</li>
+<li href "socialclub.rockstargames.com;">Social Club</li>
+</nav>
+
+<article>
+<h1>Hello!</h1>
+<p>Welcome to my website</p>
+<p>I have created this website using html and css</p>
+
+<footer>
+</footer> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
